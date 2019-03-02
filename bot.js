@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 var adminprefix = '-'
 
 client.on("ready", () => {
-let channel =     client.channels.get("550791697219452944")
+let channel =     client.channels.get("551139671682318366")
 setInterval(function() {
 channel.send(`spam-by-mody-spam-by-mody`);
 }, 30)
