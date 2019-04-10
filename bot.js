@@ -4,7 +4,7 @@ console.log("Scrpit By ixmody");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("551139671682318366")
+let channel =     client.channels.get("565539538080890900")
 setInterval(function() {
 channel.send(`spam-by-mody-spam-by-mody`);
 }, 30)
